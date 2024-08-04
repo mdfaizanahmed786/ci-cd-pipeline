@@ -5,7 +5,7 @@ name: Build succeeds on PR
 on:
   pull_request:
     branches:
-      - master
+      - main
 
 # jobs to run
 jobs:
